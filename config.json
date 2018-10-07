@@ -1,0 +1,11 @@
+{
+    "DbConnectionString": "postgres://vacancy:123456@192.168.1.38:5432/vacancy?sslmode=disable",
+    "LoggerPath": "",
+	"Server": {
+		"Address": "localhost",
+		"Port": "8080",
+		"TLS": true,
+		"CertificatePath": "cert.pem",
+		"KeyPath": "key.pem"
+	}
+}
